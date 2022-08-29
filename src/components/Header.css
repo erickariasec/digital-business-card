@@ -1,3 +1,6 @@
+header .profile-picture {
+    width: 100%;
+}
 header .personal-information {
     display: flex;
     flex-direction: column;
@@ -20,7 +23,7 @@ header .personal-information .web {
 header .buttons {
     display: flex;
     justify-content: space-between;
-    padding: 0 25px;
+    padding: 0 35px;
 }
 header .buttons a {
     width: 115px;
