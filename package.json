@@ -1,6 +1,6 @@
 {
   "name": "digital-business-card",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
