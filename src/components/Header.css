@@ -29,7 +29,7 @@ header .buttons a {
     width: 115px;
     height: 34px;
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 6px;
     font-weight: 600;
     display: flex;
     justify-content: center;
