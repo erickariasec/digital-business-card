@@ -43,8 +43,16 @@ header .buttons a .logo-button {
 header .buttons .button-left {
     background-color: #d1d5db;
     color: #374151;
+    transition: all 3ms;
+}
+header .buttons .button-left:hover {
+    background-color: #dee2e7;
 }
 header .buttons .button-right {
     background-color: #5093e2;
     color: #fff;
+    transition: all 3ms;
+}
+header .buttons .button-right:hover {
+    background-color: #5a9ce7;
 }
